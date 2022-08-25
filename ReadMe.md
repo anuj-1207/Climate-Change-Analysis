@@ -2,11 +2,11 @@ CS685A: Data Mining Project 2021
 
 This project is done by 
 
-Anuj Shrivastava (21111013) anujs21@iitk.ac.in
-Jegan Balaji BS (21111404) jeganb21@iitk.ac.in
-Himanshu Lal (21111403) himanshul21@iitk.ac.in
-Manish (21111306) manishv21@iitk.ac.in
-Shivam Tripathi (21111408) shivamtr21@iitk.ac.in
+Anuj Shrivastava
+Jegan Balaji BS 
+Himanshu Lal
+Manish
+Shivam Tripathi 
 
 Libraries Required:
 tensorflow: version 2.3.0
