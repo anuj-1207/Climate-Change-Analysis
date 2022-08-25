@@ -1,5 +1,4 @@
 CS685A: Data Mining Project 2021 
-###########################################################################################################################################################################
 
 This project is done by 
 
@@ -8,8 +7,6 @@ Jegan Balaji BS (21111404) jeganb21@iitk.ac.in
 Himanshu Lal (21111403) himanshul21@iitk.ac.in
 Manish (21111306) manishv21@iitk.ac.in
 Shivam Tripathi (21111408) shivamtr21@iitk.ac.in
-
-###########################################################################################################################################################################
 
 Libraries Required:
 tensorflow: version 2.3.0
@@ -24,10 +21,7 @@ seaborn: version 0.11.1
 json: version 2.0.9
 cufflinks: version 0.17.3
 
-
-all code are written in ipynb and py file.
-
-###########################################################################################################################################################################
+all code are written in .ipynb and .py file.
 
 For simplicity, Code and Datasets are structured in directories.
 Code: All the codes are present in this Directory
@@ -35,13 +29,8 @@ Datasets -> cleaned-datasets: All the output file generated in the project lies 
 Datasets -> raw-datasets: All the dataset that was used during the project lies here.
 Datasets -> plots: This contains GIF files and sliders graph
 
-###########################################################################################################################################################################
-
 To run the complete project execute the following command in bash
 "bash project.sh"
-
-###########################################################################################################################################################################
-
 
 Note: When Individually running the ipynb notebooks, run them in the same order as written below.
 
@@ -65,9 +54,4 @@ Note: When Individually running the ipynb notebooks, run them in the same order 
 
 10) time_series_forecasting.py: This python file contains the code to forecast any future prediction for any time-series data given to it. It uses TensorFlow and Keras libraries.
 
-
-###########################################################################################################################################################################
-
 All code is in ipynb python notebooks. Check the individual notebook file for descriptive plots.
-
-###########################################################################################################################################################################
