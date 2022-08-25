@@ -2,11 +2,7 @@ CS685A: Data Mining Project 2021
 
 This project is done by 
 
-Anuj Shrivastava
-Jegan Balaji BS 
-Himanshu Lal
-Manish
-Shivam Tripathi 
+Anuj Shrivastava, Jegan Balaji BS, Himanshu Lal, Manish and Shivam Tripathi 
 
 Libraries Required:
 tensorflow: version 2.3.0
